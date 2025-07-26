@@ -8,6 +8,13 @@
       "when": 1752244877899,
       "tag": "0000_large_shinko_yamashiro",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1753457052950,
+      "tag": "0001_tricky_maximus",
+      "breakpoints": true
     }
   ]
 }
