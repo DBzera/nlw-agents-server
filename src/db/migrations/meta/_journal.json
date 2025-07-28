@@ -15,6 +15,20 @@
       "when": 1753457052950,
       "tag": "0001_tricky_maximus",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753646634017,
+      "tag": "0002_workable_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1753648761542,
+      "tag": "0003_steady_moon_knight",
+      "breakpoints": true
     }
   ]
 }
